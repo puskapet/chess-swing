@@ -1,0 +1,22 @@
+[Event "Karanténa Open Arena"]
+[Site "https://lichess.org/6VkDvJAW"]
+[Date "2020.06.13"]
+[Round "-"]
+[White "Avishay"]
+[Black "MiroslavMarcinek"]
+[Result "1-0"]
+[UTCDate "2020.06.13"]
+[UTCTime "13:40:47"]
+[WhiteElo "2138"]
+[BlackElo "1667"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+[Variant "Standard"]
+[TimeControl "300+5"]
+[ECO "D06"]
+[Opening "Queen's Gambit Refused: Marshall Defense"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Nf6 3. Nf3 e6 4. cxd5 Nxd5 5. Nc3 Be7 6. Bd2 O-O 7. e4 Nf6 8. Bd3 Nbd7 9. O-O b6 10. Qe2 Bb7 11. h3 c5 12. Rac1 Rc8 13. Rfd1 cxd4 14. Nxd4 Ne5 15. Bb1 Qxd4 16. Bf4 Qc5 17. Nb5 Qb4 18. Bxe5 Ba6 19. Bd3 Bxb5 20. Bxb5 Qxe4 21. Qxe4 Nxe4 22. Ba6 Rc5 23. Bd4 Rd5 24. Bb7 Rxd4 25. Rxd4 Nf6 26. Rc7 Bc5 27. Rc4 Rd8 28. b4 Rd1+ 29. Kh2 Bd6+ 30. g3 Bxc7 31. Rxc7 h6 32. Bf3 Rd2 33. Kg2 Rxa2 34. b5 Rb2 35. Bc6 Rc2 36. Rxa7 Rb2 37. Rb7 Kh7 38. Rxb6 Kg6 39. Rb7 Kf5 40. b6 Ng8 41. Rxf7+ Kg6 42. Rf8 Ne7 43. Be8+ Kh7 44. Rf7 Nd5 45. b7 Kg8 46. Rd7 Nf6 47. Bf7+ Kf8 48. Rd8+ Kxf7 49. b8=Q Rxb8 50. Rxb8 Ke7 51. Rb7+ Kd6 52. Rxg7 Ke5 53. Rg6 Kf5 54. Rxh6 Ne4 55. Rh5+ Kg6 56. Re5 Ng5 57. Rxg5+ Kxg5 58. h4+ Kh5 59. Kf3 e5 60. Ke4 Kg4 61. Kxe5 Kh5 62. Kf5 Kh6 63. g4 Kh7 64. f4 Kg7 65. h5 Kh7 66. g5 Kg7 67. Kg4 Kh7 68. f5 Kg7 69. h6+ Kh7 70. Kh5 Kg8 71. g6 Kh8 72. f6 Kg8 73. Kg5 Kh8 74. Kf5 Kg8 75. g7 Kh7 76. f7 Kxh6 77. g8=Q Kh5 78. Qg5# 1-0
+
+

@@ -1,0 +1,22 @@
+[Event "Karanténa Open Arena"]
+[Site "https://lichess.org/7vFhSEU7"]
+[Date "2020.06.13"]
+[Round "-"]
+[White "Avishay"]
+[Black "training_gambits"]
+[Result "1-0"]
+[UTCDate "2020.06.13"]
+[UTCTime "15:13:14"]
+[WhiteElo "2165"]
+[BlackElo "1921"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+[Variant "Standard"]
+[TimeControl "300+5"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[Termination "Normal"]
+
+1. d4 d5 2. Nf3 c6 3. Bf4 e6 4. e3 Bd6 5. Bg3 f5 6. c4 Nf6 7. Bd3 Ne4 8. Bxd6 Qxd6 9. O-O O-O 10. Nbd2 Nd7 11. a4 Ndf6 12. c5 Qc7 13. a5 Qf7 14. Ne5 Qe8 15. Ndf3 g5 16. Bxe4 Nxe4 17. Ne1 g4 18. f3 gxf3 19. gxf3 Ng5 20. Kh1 Qh5 21. Rg1 Kh8 22. N1d3 Nf7 23. Qe2 Nxe5 24. Nxe5 f4 25. Qg2 Qh6 26. Qg8+ Rxg8 27. Nf7# 1-0
+
+
